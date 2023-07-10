@@ -1,0 +1,9 @@
+{
+	"name": "adf-practiceazure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "efa42ddb-1309-4c8d-b32b-048857168a3e",
+		"tenantId": "ec5df1d0-e05d-4cf4-9435-11d754972edc"
+	}
+}
